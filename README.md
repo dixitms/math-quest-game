@@ -72,3 +72,12 @@ To play on an iPad or iPhone:
 ---
 
 **Would you like me to generate a "Cheat Sheet" or "Teacher's Guide" section to add to this, explaining exactly how the difficulty scales at each level?**
+
+https://olympus1.mygreatlearning.com/online_session/recordings?access_token=eyJhbGciOiJIUzI1NiJ9.eyJtZW50b3JlZF9zZXNzaW9uX2lkIjoiMTQzMTg5MSJ9.HdES8kx56sVLuPAvdqBoTIibSfBoG60Dfpmf6r
+
+https://olympus1.mygreatlearning.com/online_session/recordings?access_token=eyJhbGciOiJIUzI1NiJ9.eyJtZW50b3JlZF9zZXNzaW9uX2lkIjoiMTM5ODI3NiJ9.LcEE34SBFuaAYALk2PSWj0gTjsuU3MA1h_4A4T
+
+https://olympus1.mygreatlearning.com/online_session/recordings?access_token=eyJhbGciOiJIUzI1NiJ9.eyJtZW50b3JlZF9zZXNzaW9uX2lkIjoiMTM4ODEzNiJ9.xlF7-YEcNsW-ek5nz5j29FSuzzWfz8gbWYhPsvg
+
+https://olympus1.mygreatlearning.com/online_session/recordings?access_token=eyJhbGciOiJIUzI1NiJ9.eyJtZW50b3JlZF9zZXNzaW9uX2lkIjoiMTM1MDIzMSJ9.Q8N6jTDS2Bm_PtYCzIlb670931ei77TUkrOb0F8
+
